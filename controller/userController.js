@@ -1,4 +1,4 @@
-const userModel = require('../models/userModels');
+const userModel = require('../models/user');
 const bcrypt = require('bcrypt')
 
 //CREATE USER REGISTER
